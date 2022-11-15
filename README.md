@@ -9,7 +9,7 @@ Exposing my HackerRank tests that I got in the 7 days preparation
 - ### [Day 2](Day_2)
 
 
-| Contributors | Development Languange |
-| :---: | :----:|
-| [Zakichanu](https://github.com/Zakichanu) | Java |
-| [plsergent](https://github.com/plsergent) | Python |
+## Contributors
+
+- [Zakichanu](https://github.com/Zakichanu) in `Java`
+- [plsergent](https://github.com/plsergent) in `Python`
