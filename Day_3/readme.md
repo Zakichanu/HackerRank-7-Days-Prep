@@ -2,4 +2,4 @@
 
 ## [Zig Zag Sequence](Zig_Zag_Sequence)
 
-In this challenge, the task is to debug the existing code ([in java](Zig_Zag_Sequence/BuggedSolution.java)) to successfully execute all provided test files.
+In this challenge, the task is to debug the existing code ([Java](Zig_Zag_Sequence/BuggedSolution.java)) to successfully execute all provided test files.
