@@ -11,5 +11,5 @@ Exposing my HackerRank tests that I got in the 7 days preparation
 
 ## Contributors
 
-- [Zakichanu](https://github.com/Zakichanu) in `Java`
-- [plsergent](https://github.com/plsergent) in `Python`
+- [Zakichanu](https://github.com/Zakichanu) in `Java` solutions
+- [plsergent](https://github.com/plsergent) in `Python` solutions
